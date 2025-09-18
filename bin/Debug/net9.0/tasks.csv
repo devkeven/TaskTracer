@@ -1,0 +1,4 @@
+id,description,status,createdAt,updatedAt
+1,Buy groceries,todo,17/09/2025 00:00:00,2025-09-18T12:04:18.5706610+01:00
+2,go store,todo,18/09/2025 11:24:19,null
+3,buy clothes,done,18/09/2025 12:15:39,2025-09-18T12:18:27.8596545+01:00
