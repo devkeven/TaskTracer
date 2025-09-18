@@ -1,28 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System.Collections;
-using System.Data.Common;
-using Microsoft.VisualBasic;
-
-
-// List<string[]> tasks = new List<string[]>();
-
-// // Read from CSV file, skipping the header line
-// string[] linhas = File.ReadAllLines("tasks.csv").Skip(1).ToArray();
-// foreach (var linha in linhas)
-// {
-//     string[] campos = linha.Split(',');
-//     string[] task = { campos[0], campos[1], campos[2], campos[3], campos[4] };
-
-//     tasks.Add(task);
-// }
-
+﻿
 List<Task> tasks = CsvHelper.LoadTasksFromCsv("tasks.csv");
 
 Console.WriteLine("**Task Tracker Menu**");
 
 string? input;
 do
-{    
+{
+    // Display menu options
     Console.WriteLine("");
     Console.WriteLine("-----------------------------------------------");
     Console.WriteLine("Insert the operation:");
@@ -32,13 +16,14 @@ do
     Console.WriteLine("exit to quit the program");
     Console.WriteLine("-----------------------------------------------");
 
+    // Read user input
     input = Console.ReadLine();
 
     if (input != null)
     {
         var operation = input.Split(" ")[0];
-        //Console.WriteLine(operation);
-
+        
+        // Determine the operation and call the corresponding method
         switch (operation)
         {
             case "add":
