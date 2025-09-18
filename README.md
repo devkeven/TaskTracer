@@ -22,3 +22,6 @@ The goal is to provide a simple and practical way to manage tasks, helping you s
 
 📄 License
 * This project is free to use for study and practice purposes.
+
+Original project
+* https://roadmap.sh/projects/task-tracker
