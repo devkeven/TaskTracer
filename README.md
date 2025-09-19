@@ -1,5 +1,5 @@
-Task Tracer 📝
-Task Tracer is a C# application that allows you to create, organize, and track daily tasks.
+Task Tracker 📝
+Task Tracker is a C# application that allows you to create, organize, and track daily tasks.
 The goal is to provide a simple and practical way to manage tasks, helping you stay focused and productive.
 
 🚀 Features
@@ -16,7 +16,7 @@ The goal is to provide a simple and practical way to manage tasks, helping you s
 
 📦 How to Run the Project
 * Clone the repository:
-* git clone https://github.com/devkeven/task-tracer.git
+* git clone https://github.com/devkeven/task-tracker.git
 * Open the solution in Visual Studio or Visual Studio Code
 * Run the application
 

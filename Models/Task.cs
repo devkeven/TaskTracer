@@ -93,7 +93,7 @@ public class Task
                 task.Description = description;
                 task.UpdatedAt = DateTime.Now;
                 CsvHelper.SaveTasksToCsv(tasks, "tasks.csv");
-                Console.WriteLine("Task with ID " + id + " updated to 'in-progress'.");
+                Console.WriteLine("Task with ID " + id + " updated.");
             }
             else
             {

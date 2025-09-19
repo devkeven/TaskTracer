@@ -1,0 +1,15 @@
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\bin\Debug\net9.0\TaskTracker.exe
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\bin\Debug\net9.0\TaskTracker.deps.json
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\bin\Debug\net9.0\TaskTracker.runtimeconfig.json
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\bin\Debug\net9.0\TaskTracker.dll
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\bin\Debug\net9.0\TaskTracker.pdb
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\obj\Debug\net9.0\TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\obj\Debug\net9.0\TaskTracker.AssemblyInfoInputs.cache
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\obj\Debug\net9.0\TaskTracker.AssemblyInfo.cs
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\obj\Debug\net9.0\TaskTracker.csproj.CoreCompileInputs.cache
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\obj\Debug\net9.0\TaskTracker.sourcelink.json
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\obj\Debug\net9.0\TaskTracker.dll
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\obj\Debug\net9.0\refint\TaskTracker.dll
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\obj\Debug\net9.0\TaskTracker.pdb
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\obj\Debug\net9.0\TaskTracker.genruntimeconfig.cache
+C:\Desenvolvimentos\VSCode\Roadmap\TaskTracker\obj\Debug\net9.0\ref\TaskTracker.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desenvolvimentos\\VSCode\\Roadmap\\TaskTracer\\TaskTracer.csproj",
-      "projectName": "TaskTracer",
-      "projectPath": "C:\\Desenvolvimentos\\VSCode\\Roadmap\\TaskTracer\\TaskTracer.csproj",
+      "projectUniqueName": "C:\\Desenvolvimentos\\VSCode\\Roadmap\\TaskTracker\\TaskTracker.csproj",
+      "projectName": "TaskTracker",
+      "projectPath": "C:\\Desenvolvimentos\\VSCode\\Roadmap\\TaskTracker\\TaskTracker.csproj",
       "packagesPath": "C:\\Users\\kmartins\\.nuget\\packages\\",
-      "outputPath": "C:\\Desenvolvimentos\\VSCode\\Roadmap\\TaskTracer\\obj\\",
+      "outputPath": "C:\\Desenvolvimentos\\VSCode\\Roadmap\\TaskTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
